@@ -1,0 +1,25 @@
+# Dataset folders
+dataset/
+audio/
+video/
+frames/
+results/
+archive (1)/
+
+# Models
+*.h5
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
