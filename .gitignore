@@ -10,6 +10,7 @@ archive (1)/
 *.h5
 *.pt
 *.pth
+*.keras
 
 # Python cache
 __pycache__/
